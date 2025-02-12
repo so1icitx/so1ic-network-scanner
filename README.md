@@ -1,11 +1,25 @@
-# so1ic-network-scanner
-This is a simple Python script that uses Scapy to scan a given IP range for active devices using ARP requests.
+# **so1ic-network-scanner**  
+A simple Python script that uses **Scapy** to scan a given IP range for active devices using **ARP requests**.
 
-## Requirements
-- Python 3.x
-- Scapy (install via `pip install scapy`)
+---
 
-## Usage
+## ✨ Features  
+- 🔍 Scan a network for active devices.  
+- 🛡️ Uses **ARP requests** for accurate detection.  
+- 🔗 Lightweight and easy to use.  
 
+---
+
+## ⚠️ Requirements  
+- Python **3.x**  
+- **Scapy** (Install via: `pip install scapy`)  
+- Root privileges (`sudo`)  
+
+---
+
+## 🚀 Usage  
 ```bash
 sudo python3 arp_scanner.py -r 192.168.1.0/24
+```
+
+---
