@@ -31,3 +31,8 @@ sudo python3 arp_scanner.py -r 192.168.1.0/24
 ```
 
 ---
+
+## 📝 License  
+This project is licensed under the **MIT License**.  
+
+---
